@@ -14,7 +14,7 @@ bytes = random._urandom(1024)
 os.system("clear")
 os.system("figlet WELCOME TO DOS ATTACK ")
 print("")
-ip = raw_input("\033[32;1m" "figlet aTarget IP : ")
+ip = raw_input("\033[32;1m" " Target IP : ")
 port = input("\033[32;1m" "port : ")
 dur = input("\033[32;1m" "Time : ")
 timeout = time.time() + dur
