@@ -1,3 +1,13 @@
 # dos-attack
- Author is H4CK6R SPY
-thank for kerala cyber mafia ..
+
+apt update 
+
+apt upgrade -y
+
+pkg install git -y
+
+pkg install python -y
+
+pkg install python2 -y
+
+git clone 
