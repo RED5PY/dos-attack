@@ -10,7 +10,7 @@ pkg install python -y
 
 pkg install python2 -y
 
-git clone https://github.com/vjkingler/dos-attack.gi
+git clone https://github.com/vjkingler/dos-attack.git
 
 ls
 
