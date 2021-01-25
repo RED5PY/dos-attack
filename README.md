@@ -4,6 +4,8 @@ apt update
 
 apt upgrade -y
 
+pkg install figlet -y
+
 pkg install git -y
 
 pkg install python -y
