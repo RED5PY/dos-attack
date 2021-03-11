@@ -1,4 +1,5 @@
 pkg install figlet -y
+clear
 figlet 1
 sleep 3
 clear
