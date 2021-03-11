@@ -12,7 +12,7 @@ import random
 sock = socket.socket(socket.AF_INET, socket.SOCK_DGRAM)
 bytes = random._urandom(1024)
 os.system("clear")
-os.system ("bash banner.sh")
+os.system ("python banner.py")
 print("")
 ip = raw_input("\033[32;1m" "Target IP : ")
 port = input("\033[32;1m" "port : ")
