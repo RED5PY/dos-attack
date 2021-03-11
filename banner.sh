@@ -8,17 +8,17 @@ yellow='\e[1;33m'
 echo ""
 echo""
 banner() {
- echo -e $'\e[1;31m     ██████╗  ██████╗ ███████╗   
- echo -e $'\e[1;31m     ██╔══██╗██╔═══██╗██╔════╝ 
- echo -e $'\e[1;31m     ██║  ██║██║   ██║███████╗ 
- echo -e $'\e[1;31m     ██║  ██║██║   ██║╚════██║   
- echo -e $'\e[1;31m     ██████╔╝╚██████╔╝███████║   
- echo -e $'\e[1;31m     ╚═════╝ ╚═════╝ ╚══════╝  
-   
+ 
+
+
+
+
+
+
   echo""    
   echo -e $'\e[1;32m DOS ATTACKING TOOL \e[0m''\e[1;37m\e[0m\e[1;37m [V.0.1] \e[0m'                                       
   echo ""
    echo -e $'\e[1;33m\e[0m\e[1;33m  [ \e[0m\e[1;32m Coded By SPY \e[0m \e[1;32m\e[0m\e[1;33m] \e[0m'
    echo ""
       }
-      banner
+
