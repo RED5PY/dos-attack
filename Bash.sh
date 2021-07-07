@@ -1,2 +1,3 @@
 pkg install figlet -y
+clear
 figlet loading...
