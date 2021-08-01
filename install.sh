@@ -6,6 +6,6 @@ apt install figlet -y
 clear
 chmod 777 *
 echo "[+] this tool for only educational purpose only"
-read -p "[+] you want continue: "(y/n) 
+read -p "[+] you want continue : "click Enter 
 python2 dos.py
 
