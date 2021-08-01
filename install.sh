@@ -10,8 +10,8 @@ echo " "
 echo "[+] this tool for only educational purpose only"
 read -p "[+] you want continue : "Enter 
 echo " "
-sleep (3)
+sleep 3
 am start -a android.intent.action.VIEW -d https://youtube.com/channel/UCXKJCGW0beO1Jdhd7AehZPg
-sleep (6)
+sleep 6
 python2 dos.py
 
