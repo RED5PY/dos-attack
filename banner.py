@@ -26,5 +26,5 @@ print (red+"""
      ╚═╝     ╚═════╝          ╚═╝               
 """+red)
 
-print (lgreen+bold+"<=======[[ coded by H4CK6R SPY ]]======> \n"+clear)
-print (yellow+bold+"<------[[[   instagram @h4ck6r_spy   ]]]-----> \n"+clear)
+print (lgreen+bold+"<=======[[ coded by SPY ]]======> \n"+clear)
+print (yellow+bold+"<------[[[   instagram roo7_5py  ]]]-----> \n"+clear)
